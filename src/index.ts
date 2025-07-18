@@ -7,8 +7,8 @@ const db = {
         {id: 1, name: "Frontend"},
         {id: 2, name: "Backend"},
         {id: 3, name: "Designer"},
-        {id: 4, name: "Frontend"},
-        {id: 5, name: "Frontend"},
+        {id: 4, name: "QA"},
+        {id: 5, name: "Team-lead"},
     ]
 }
 
